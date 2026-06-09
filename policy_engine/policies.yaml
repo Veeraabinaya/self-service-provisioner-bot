@@ -9,6 +9,7 @@ defaults:
     - dev
     - test
     - qa
+    - staging
   authorized_users:
     - alice
     - yakhaiyum
@@ -32,5 +33,7 @@ rules:
       env:
         - dev
         - test
+        - staging
+        - qa
     effect: allow
     message: AWS dev/test provisioning is allowed.
