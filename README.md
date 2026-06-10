@@ -180,9 +180,3 @@ provisioner-bot/
 | Jeshintha X |
 | Veera Abinaya M |
 | Ya Khaiyum A |
-
----
-
-## 📄 License
-
-This project is developed for educational purposes as part of a CSE team assignment.
